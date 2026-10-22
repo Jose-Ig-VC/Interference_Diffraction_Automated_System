@@ -10,7 +10,7 @@ Développement d’un projet visant à détecter automatiquement les figures d�
 ### Problematica:
 En el desarrollo de las actividades experimentales que se presentan en el curso de Optica Clasic, y con mayor enfasis en los laboratorios 5 y 6 (Interferencia y Difraccion), es sabido que la caracterizacion manual de los patrones opticos anaden el error humano, es por ello que, este proyecto nace con el obejtivo de eliminar los accidentes y todo eso.
 
-## Integrantes:rocket:
+## Integrantes :rocket:
 
 -----
 | Photo | Name | Role | 
